@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me ...
 - 😄 Pronouns: any
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't know what I'm doing right now
 
 <!---
 saulevant/saulevant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
