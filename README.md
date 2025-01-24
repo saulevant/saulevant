@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saulevant
 - 👀 I’m interested in sci-fi, fantasy, comics and video games
-- 🌱 I’m currently learning php, JS, python, C++
+- 🌱 I’m currently learning php, JS, python, C#
 - 💞️ I’m looking to collaborate on security projects
 - 📫 How to reach me (not for now sorry)
 - 😄 Pronouns: any
